@@ -12,28 +12,57 @@ I work across **SaaS, marketplaces, e-commerce, media, business automation, and 
 
 ### Frontend
 
-`React` · `Next.js` · `TypeScript` · `Vue.js` · `React Native`
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" height="45" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="45" height="45" alt="Vue.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React Native" />
+</p>
 
 ### Backend
 
-`Node.js` · `NestJS` · `Python` · `FastAPI` · `Laravel`
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="45" height="45" alt="NestJS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45" height="45" alt="FastAPI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="45" height="45" alt="Laravel" />
+</p>
 
 ### AI & LLM
 
-`OpenAI` · `Claude` · `Gemini` · `RAG` · `AI Agents` · `LangChain` · `LangGraph`
+<p>
+  <img src="https://cdn.simpleicons.org/openai" width="45" height="45" alt="OpenAI" />
+  <img src="https://cdn.simpleicons.org/anthropic" width="45" height="45" alt="Claude" />
+  <img src="https://cdn.simpleicons.org/googlegemini" width="45" height="45" alt="Gemini" />
+  <img src="https://cdn.simpleicons.org/langchain" width="45" height="45" alt="LangChain" />
+</p>
 
 ### Cloud & Infrastructure
 
-`AWS` · `Lambda` · `S3` · `SQS` · `EventBridge` · `API Gateway` · `Cognito` · `AWS Bedrock`
+<p>
+  <img src="https://cdn.simpleicons.org/amazonaws" width="45" height="45" alt="AWS" />
+  <img src="https://cdn.simpleicons.org/awslambda" width="45" height="45" alt="AWS Lambda" />
+  <img src="https://cdn.simpleicons.org/amazons3" width="45" height="45" alt="Amazon S3" />
+  <img src="https://cdn.simpleicons.org/amazonsqs" width="45" height="45" alt="Amazon SQS" />
+</p>
 
-### Data & APIs
+### Database & APIs
 
-`PostgreSQL` · `Redis` · `Prisma` · `REST` · `GraphQL` · `WebSockets` · `SSE`
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="45" height="45" alt="Redis" />
+  <img src="https://cdn.simpleicons.org/prisma" width="45" height="45" alt="Prisma" />
+  <img src="https://cdn.simpleicons.org/graphql" width="45" height="45" alt="GraphQL" />
+</p>
 
 ### Integrations
 
-`Stripe` · `QuickBooks Online` · `Twilio` · `Klaviyo`
-
+<p>
+  <img src="https://cdn.simpleicons.org/stripe" width="45" height="45" alt="Stripe" />
+  <img src="https://cdn.simpleicons.org/twilio" width="45" height="45" alt="Twilio" />
+</p>
 
 
 ## 🚀 What I Build
