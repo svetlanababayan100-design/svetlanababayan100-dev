@@ -43,10 +43,10 @@ I work across **SaaS, marketplaces, e-commerce, media, business automation, and 
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/aws-light.png" width="45" height="45" alt="AWS" />
-  <img src="[https://cdn.simpleicons.org/awslambda](https://upload.wikimedia.org/wikipedia/commons/5/5c/Amazon_Lambda_architecture_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)" width="45" height="45" alt="AWS Lambda" />
+ <img src="https://cdn.simpleicons.org/awslambda" width="45" height="45" alt="AWS Lambda" />
   <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/amazon-s3.png" width="45" height="45" alt="Amazon S3" />
-  <img src="[https://cdn.simpleicons.org/amazonsqs](https://icon.icepanel.io/AWS/svg/App-Integration/Simple-Queue-Service.svg)" width="45" height="45" alt="Amazon SQS" />
-</p>
+  <img src="https://cdn.simpleicons.org/amazonsqs" width="45" height="45" alt="Amazon SQS" />
+  </p>
 
 ### Database & APIs
 
@@ -61,7 +61,7 @@ I work across **SaaS, marketplaces, e-commerce, media, business automation, and 
 
 <p>
   <img src="https://cdn.simpleicons.org/stripe" width="45" height="45" alt="Stripe" />
-  <img src="https://images.seeklogo.com/logo-png/27/1/twilio-logo-png_seeklogo-274041.png" width="45" height="45" alt="Twilio" />
+  <img src="https://cdn.simpleicons.org/twilio" width="45" height="45" alt="Twilio" />
 </p>
 
 
