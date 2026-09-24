@@ -33,7 +33,7 @@ I work across **SaaS, marketplaces, e-commerce, media, business automation, and 
 ### AI & LLM
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/openai-light.png" width="45" height="45" alt="OpenAI" />
+  <img src="https://logosandtypes.com/wp-content/uploads/2022/07/openai.svg" width="45" height="45" alt="OpenAI" />
   <img src="https://cdn.simpleicons.org/anthropic" width="45" height="45" alt="Claude" />
   <img src="https://cdn.simpleicons.org/googlegemini" width="45" height="45" alt="Gemini" />
   <img src="https://cdn.simpleicons.org/langchain" width="45" height="45" alt="LangChain" />
